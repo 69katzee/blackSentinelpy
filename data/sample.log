@@ -1,0 +1,4 @@
+2026-08-21 10:00:01 | LOGIN_SUCCESS | user=arif | ip=192.168.1.5
+2026-08-21 10:01:12 | LOGIN_FAILED | user=admin | ip=192.168.1.20
+2026-08-21 10:01:18 | LOGIN_FAILED | user=admin | ip=192.168.1.20
+2026-08-21 10:01:24 | LOGIN_FAILED | user=admin | ip=192.168.1.20
